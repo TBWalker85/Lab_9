@@ -1,0 +1,38 @@
+.container {
+    margin: auto;
+    text-align: center;
+}
+
+button {
+    margin: 5px;
+}
+
+.car {
+    height: 35px;
+    width: 70px;
+    baclground-color: yellow;
+    position: absolute;
+}
+
+.copcar {
+    width: 35px;
+    height: 70px;
+    background-color: blue;
+    position: absolute;
+}
+
+.motorcycle {
+    height: 25px;
+    width: 50px;
+    background-color: black;
+    position: absolute;
+}
+
+.tank{
+    height: 60px;
+    width: 120px;
+    background-color: darkgreen;
+    position: absolute;
+}
+
+
